@@ -1,4 +1,3 @@
-Flags:
 -e or -d : These flags will indicate if the program is encrypting or decrypting a file
 
 -k X : This flag specifies the key value, X, where X could be any integer value
